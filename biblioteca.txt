@@ -1,0 +1,15 @@
+Nombre del libro: La muerte de Ivan Ilich
+Autor: León Tolstói
+Género: Novela corta, Ficción filosófica
+Editorial: Alianza Editorial
+ISBN: 123456789
+Tipo de libro: extradiegético
+Descripción: :)
+
+Nombre del libro: El hombre que calculaba
+Autor: Malba Tahan
+Género: Novela
+Editorial: Pluma y Papel 
+ISBN: 123456789
+Tipo de libro: Novela
+Descripción: :)
